@@ -3,7 +3,7 @@
 ### 🔐 Repositories:
 
 - [Gem Core](https://github.com/gemwalletcom/core) - Gem Wallet Rust Core library & Rest API services for Gem wallet infrastructure.
-- [Gem iOS, Android](https://github.com/gemwalletcom/gem-ios) - Native iOS app in Swift & SwiftUI 
+- [Gem iOS](https://github.com/gemwalletcom/gem-ios) - Native iOS app in Swift & SwiftUI 
 - [Gem Android](https://github.com/gemwalletcom/gem-android) - Native Android app in Kotlin & Jetpack Compose
 - [Gem Assets](https://github.com/gemwalletcom/assets) - Assets Information and Token Lists.
 
